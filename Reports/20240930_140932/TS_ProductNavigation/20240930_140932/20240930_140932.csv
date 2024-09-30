@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_ProductNavigation,Chrome 129.0.0.0,,,30-09-2024 14:09:53,30-09-2024 14:10:15,21.848s,PASSED
+,,,,,,,
+Test Cases/TC_ProductNavigation,Chrome 129.0.0.0,,,30-09-2024 14:09:55,30-09-2024 14:10:15,20.401s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,30-09-2024 14:09:57,30-09-2024 14:10:04,7.012s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Chrome 129.0.0.0,,,30-09-2024 14:10:04,30-09-2024 14:10:05,1.873s,PASSED
+"click(findTestObject(""Object Repository/Product_Navigation/Page_JPetStore Demo/a_Enter the Store""))",Chrome 129.0.0.0,,,30-09-2024 14:10:05,30-09-2024 14:10:08,2.752s,PASSED
+"click(findTestObject(""Object Repository/Product_Navigation/Page_JPetStore Demo/img""))",Chrome 129.0.0.0,,,30-09-2024 14:10:08,30-09-2024 14:10:09,0.717s,PASSED
+"click(findTestObject(""Object Repository/Product_Navigation/Page_JPetStore Demo/a_AV-CB-01""))",Chrome 129.0.0.0,,,30-09-2024 14:10:09,30-09-2024 14:10:10,0.844s,PASSED
+"click(findTestObject(""Object Repository/Product_Navigation/Page_JPetStore Demo/a_EST-18""))",Chrome 129.0.0.0,,,30-09-2024 14:10:10,30-09-2024 14:10:11,1.361s,PASSED
+"click(findTestObject(""Object Repository/Product_Navigation/Page_JPetStore Demo/a_Return to AV-CB-01""))",Chrome 129.0.0.0,,,30-09-2024 14:10:11,30-09-2024 14:10:12,0.918s,PASSED
+"click(findTestObject(""Object Repository/Product_Navigation/Page_JPetStore Demo/a_Return to Main Menu""))",Chrome 129.0.0.0,,,30-09-2024 14:10:12,30-09-2024 14:10:13,1.407s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,30-09-2024 14:10:13,30-09-2024 14:10:15,1.540s,PASSED
